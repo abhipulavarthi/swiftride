@@ -1,0 +1,12 @@
+com\swiftride\repository\RideRepository.class
+com\swiftride\model\Ride.class
+com\swiftride\model\Location.class
+com\swiftride\model\User.class
+com\swiftride\repository\CaptainRepository.class
+com\swiftride\SwiftRideApplication.class
+com\swiftride\controller\CaptainController.class
+com\swiftride\controller\RideController.class
+com\swiftride\model\Captain.class
+com\swiftride\model\Vehicle.class
+com\swiftride\repository\UserRepository.class
+com\swiftride\controller\AuthController.class
