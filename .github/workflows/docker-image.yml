@@ -1,4 +1,4 @@
-name: ride share
+name: rideshare
 
 on:
   push:
